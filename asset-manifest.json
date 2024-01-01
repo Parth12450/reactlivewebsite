@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.49ba323c.css",
+    "main.js": "/reactlivewebsite/static/js/main.3832a7c9.js",
+    "static/media/smartphone-balancing-with-pink-background.png": "/reactlivewebsite/static/media/smartphone-balancing-with-pink-background.5f84b11a6c84e12ad28e.png",
+    "static/media/goku-png-32683.png": "/reactlivewebsite/static/media/goku-png-32683.698ae485ae798ebfad21.png",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.49ba323c.css.map": "/reactlivewebsite/static/css/main.49ba323c.css.map",
+    "main.3832a7c9.js.map": "/reactlivewebsite/static/js/main.3832a7c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ba323c.css",
+    "static/js/main.3832a7c9.js"
+  ]
+}
